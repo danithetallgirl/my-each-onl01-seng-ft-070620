@@ -1,4 +1,5 @@
-def my_each(array) argument(s) here
+def my_each
+  
   i = 0
   while i < array.length
     yield array[i]
